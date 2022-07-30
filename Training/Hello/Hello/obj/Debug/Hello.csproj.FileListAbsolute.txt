@@ -1,0 +1,7 @@
+D:\Work_directory\Git_repository\Training\Hello\Hello\bin\Debug\Hello.exe.config
+D:\Work_directory\Git_repository\Training\Hello\Hello\bin\Debug\Hello.exe
+D:\Work_directory\Git_repository\Training\Hello\Hello\bin\Debug\Hello.pdb
+D:\Work_directory\Git_repository\Training\Hello\Hello\obj\Debug\Hello.csproj.AssemblyReference.cache
+D:\Work_directory\Git_repository\Training\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+D:\Work_directory\Git_repository\Training\Hello\Hello\obj\Debug\Hello.exe
+D:\Work_directory\Git_repository\Training\Hello\Hello\obj\Debug\Hello.pdb
