@@ -10,7 +10,7 @@ namespace Hello
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world updated on GitHub");
+            Console.WriteLine("Hello world updated in bugfix");
             Console.ReadLine();
         }
     }
