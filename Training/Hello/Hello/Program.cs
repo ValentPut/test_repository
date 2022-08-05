@@ -10,7 +10,7 @@ namespace Hello
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world updated on master");
+<<<<<<< 	Console.WriteLine("Hello world updated on conflict solver");
             Console.ReadLine();
         }
     }
